@@ -2,6 +2,8 @@
 
 * Inception-V3 : Inception-V3 has the best results(98%) compared to MobileNetV2 and NASNetMobile.It is a slightly more complex model but when the pre-trained it can be converted into TF-lite and used on EDGE devices.
 
+* This model overfits with mask has to be fine tuned.
+
 <div>
 <img src="https://github.com/sidgan22/MaskDetection/blob/master/images/Inception-plot.png" data-canonical-src="https://github.com/sidgan22/MaskDetection/blob/master/images/Inception-plot.png" width="500" height="400" />
 <img src="https://github.com/sidgan22/MaskDetection/blob/master/images/Inception.PNG" data-canonical-src="https://github.com/sidgan22/MaskDetection/blob/master/images/Inception.PNG" width="450" height="400" />
